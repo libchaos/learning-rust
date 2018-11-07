@@ -1,0 +1,6 @@
+[package]
+name = "greeter"
+version = "0.1.0"
+authors = ["libin <libchaos01@163.com>"]
+
+[dependencies]
